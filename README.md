@@ -4,7 +4,7 @@ This repository contains an end-to-end modern data engineering and AI pipeline b
 
 ## Architecture Overview
 
-![Zomato Data Pipeline Architecture](./image_305664.jpg)
+![Zomato Data Pipeline Architecture]()
 
 The pipeline processes data through a structured Medallion architecture, enhancing it with a dedicated AI lane before serving it to end-users.
 
